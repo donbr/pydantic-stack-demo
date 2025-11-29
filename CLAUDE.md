@@ -64,6 +64,18 @@ Three implementations of the same multi-agent deep research pattern:
 
 Pattern: Plan agent → parallel search agents → analysis agent with extra search tool.
 
+### Generated Documentation (`architecture/`)
+
+Auto-generated comprehensive documentation suite for the repository:
+
+- `architecture/README.md` - Main overview with technology stack, patterns, and navigation guide
+- `architecture/docs/01_component_inventory.md` - Complete catalog of modules, classes, and functions
+- `architecture/diagrams/02_architecture_diagrams.md` - Mermaid diagrams showing system structure
+- `architecture/docs/03_data_flows.md` - Sequence diagrams for execution patterns
+- `architecture/docs/04_api_reference.md` - Detailed API documentation with examples
+
+Key patterns documented: Simple Agent, Tool-Based Agent, Structured Output, Memory Pattern, Multi-Agent, Durable Execution, MCP Integration.
+
 ## Key Dependencies
 
 - `pydantic-ai` - AI agent framework with structured outputs
