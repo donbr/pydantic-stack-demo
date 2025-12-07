@@ -420,9 +420,6 @@ sequenceDiagram
 This pattern demonstrates how errors propagate through the system, including HTTP errors, validation failures, usage limits, and retry exhaustion.
 
 ```mermaid
----
-id: 44aa9cda-e41a-4bf9-a36b-49c3eb8b4f47
----
 sequenceDiagram
     participant User
     participant Agent
